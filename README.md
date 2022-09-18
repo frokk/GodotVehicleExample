@@ -3,4 +3,4 @@ Simple Godot Vehicle Example With A Truck, Which I made for a Driving simulator 
 
 ---
 ### License
-There is no license, except the truck model used in the example [90s Light Commercial Truck - Low poly model](https://skfb.ly/ootyy) by Daniel Zhabotinsky is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+There is no license, except the truck model used in the example [90s Light Commercial Truck - Low poly model](https://skfb.ly/ootyy) by [Daniel Zhabotinsky](https://sketchfab.com/DanielZhabotinsky) is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
