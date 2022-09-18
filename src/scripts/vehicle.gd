@@ -39,6 +39,7 @@ func _physics_process(delta):
 		throttle_val = 1.0
 	if Input.is_action_pressed("ui_down"):
 		brake_val = 1.0
+		throttle_val = -1.0 # Simple Hack For Reversing, You Could Do Something better
 	if Input.is_action_pressed("ui_left"):
 		steer_val = 1.0
 	elif Input.is_action_pressed("ui_right"):
